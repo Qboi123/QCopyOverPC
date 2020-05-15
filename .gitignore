@@ -1,0 +1,6 @@
+/bin/
+/venv/
+/obj/
+/.idea/
+*.iml
+/hello.txt
