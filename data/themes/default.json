@@ -1,0 +1,15 @@
+{
+  "button": {
+    "background": "#5f5f5f",
+    "foreground": "#dfdfdf",
+    "relief": "flat",
+    "bd": 0,
+    "active_background": "#00bf00",
+    "active_foreground": "#ffffff"
+  },
+  "label": {
+    "background": "",
+    "foreground": "#dfdfdf",
+    "relief": "flat"
+  }
+}
